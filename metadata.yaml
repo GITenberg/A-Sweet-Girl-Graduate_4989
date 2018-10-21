@@ -1,5 +1,5 @@
 _repo: A-Sweet-Girl-Graduate_4989
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcc 'PR'
 - !lcc 'PZ'
 - !lcsh 'Schools -- Juvenile fiction'
+- GITenberg
 title: A Sweet Girl Graduate
 url: http://www.gutenberg.org/ebooks/4989
